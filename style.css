@@ -1,0 +1,60 @@
+body {
+    background: #222;
+    font-family: 'Open Sans', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.card {
+    background: linear-gradient(135deg, #00feba, #5b548a);
+    color: #fff;
+    padding: 2em;
+    border-radius: 30px;
+    width: 100%;
+    max-width: 470px;
+    text-align: center;
+}
+
+.search {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+input {
+    border: 0;
+    outline: 0;
+    padding: 10px 25px;
+    height: 30px;
+    border-radius: 30px;
+    flex: 1;
+    margin-right: 16px;
+    font-size: 18px;
+}
+
+button {
+    border: 0;
+    outline: 0;
+    background: #ebfffc;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+button:hover {
+    background: #7c7c7c2b;
+}
+
+button img {
+    width: 20px;
+}
+
+.weather {
+    /* display: none; */
+    /* Hidden by default until dynamic */
+}
