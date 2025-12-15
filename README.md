@@ -21,5 +21,5 @@ This dashboard fetches live weather data for any city worldwide using the **Open
 - **No API Key**: Built on Open-Meteo's open-access infrastructure for seamless deployment.
 
 ## 📸 Screenshots
-
-_(Add screenshots of your dashboard here)_
+<img width="849" height="642" alt="image" src="https://github.com/user-attachments/assets/c84f57c3-a7da-4cb0-bf6e-6ab6d943f41f" />
+<img width="849" height="642" alt="image" src="https://github.com/user-attachments/assets/2f2d82d5-a3f3-432f-9c95-f7cfab679994" />
